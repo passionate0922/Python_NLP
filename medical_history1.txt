@@ -1,0 +1,29 @@
+Name = James Smith
+B.O.D = 01/15/67
+
+Medical Issue:
+   I have chest pain. I cannot breathe normally, my mouth is dry, and I feel sweaty. Also, I cannot sleep normally.
+
+Have you ever had? (y/n)
+* AIDS/HIV : n
+* Allergies : y
+* Asthma : n
+* Back Trouble : n
+* Bleeding Disease : n
+* Surgery : n
+* Liver Disease : n
+* Fainting : y
+
+List any surgery that you have had (If you checked 'n' above, you do not need to fill the blank) :
+
+
+List any medication you are currently taking :
+aspirin
+
+List any allergies :
+seafood allergy, latex allergy
+
+Are you pregnant? (y/n)
+n
+
+Submission Date: 06/01/17
